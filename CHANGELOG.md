@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.2] - 2023-11-23
+
+### 👀 Dependency Update
+
+- Update all dependencies to their latest stable versions.
+
 ## [2.1.1] - 2022-08-10
 
 ### 👀 Bug Fixes
